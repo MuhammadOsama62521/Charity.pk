@@ -1,0 +1,40 @@
+.one{
+    background-color:rgb(73, 73, 73) ;
+color: white;
+align-items: center;
+}
+.mr-auto{
+    position: static;
+    border-color: cornsilk;
+    align-items: center;
+}
+/* .mr-auto:hover{
+   
+    color: #000; 
+
+} */
+.mainNav{
+    
+    font-family: 'Kaushan Script', cursive !important;
+    font-style: normal;
+    font-size-adjust: 0.58;
+    font-weight: 500;
+  font-size: 50px !important;
+
+}
+.product-cart .card-body{
+    background-color: whitesmoke ;
+}
+
+.product-details a{
+    font-weight: 600;
+    font-size: 20px;
+
+}
+.card{
+    font-family: 'Quicksand', sans-serif;
+    border: 1px solid lightgray;
+    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+    margin: auto;
+}
+

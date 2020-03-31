@@ -1,0 +1,22 @@
+.login{
+ margin: auto;
+}
+.Don{
+    border: 1px solid lightgray;
+    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+    margin: auto;
+}
+.Head{
+    font-family: 'Kaushan Script', cursive !important;
+    /* font-family: 'DM Serif Text', serif !important; */
+    padding-right: 10px !important;
+    
+    text-align: center;
+    /* font-family: 'Poiret One', cursive !important; */
+}
+.label{
+    font-family: 'Quicksand', sans-serif;
+    font:bold;
+    font-style: inherit;
+    /* font-family: 'DM Serif Text', serif !important; */
+}

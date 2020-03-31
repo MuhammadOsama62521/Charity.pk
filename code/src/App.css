@@ -1,0 +1,113 @@
+
+.App {
+
+  text-align: center;
+  background-color: rgb(247, 244, 244);
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.form-control {
+  width: 50% !important;
+  background-position: center !important;
+  align-items:center !important;
+}
+.form{
+  align-items: center !important;
+}
+.Appbar2{
+  background-color: green !important;
+}
+.login{
+
+  border: 1px solid lightgray;
+  padding: 50px 25px 50px 25px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+  margin: auto;
+  width: 700px;
+  background-color: white;
+}
+.login .form-control{
+
+width: 100% !important;
+}
+
+.Vendor{
+  border: 1px solid lightgray;
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+  margin: auto;
+}
+.description{
+  font-weight: 500;
+  font-size: 20px;
+}
+.customer{
+  width: 400;
+  border: 1px solid lightgray;
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+  margin: auto;
+  font-family: 'Quicksand', sans-serif;
+}
+.main{
+  border: 1px solid lightgray;
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+  margin: auto;
+}
+.name{
+  margin-left: 5px;
+  font-family: 'Quicksand', sans-serif;
+}
+.wel{
+  font-family: 'Kaushan Script', cursive !important;
+  padding-right: 10px !important;
+    
+    text-align: center;
+}
+.admin1{
+  font-family: 'Quicksand', sans-serif;
+  border: 1px solid lightgray;
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+  margin: 0px;
+  height:100% ;
+  
+  
+ 
+}
+.but{
+ float: left;
+}
+.main2{
+  font-family: 'Quicksand', sans-serif;
+}
